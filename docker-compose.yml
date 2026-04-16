@@ -1,0 +1,2 @@
+# Serviços locais (Airflow, Postgres, etc.): adicione conforme o projeto evoluir.
+services: {}
